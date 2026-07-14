@@ -1,4 +1,4 @@
-module github.com/oarkflow/fh/contrib
+module github.com/oarkflow/fh-contrib
 
 go 1.26.2
 
