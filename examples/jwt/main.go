@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/oarkflow/fh"
-	jwtmw "github.com/oarkflow/fh/contrib/mw/jwt"
+	jwtmw "github.com/oarkflow/fh-contrib/mw/jwt"
 	"github.com/oarkflow/securetoken"
 )
 
