@@ -6,7 +6,8 @@ require (
 	github.com/andybalholm/brotli v1.2.2
 	github.com/klauspost/compress v1.19.0
 	github.com/oarkflow/authz v0.0.5
-	github.com/oarkflow/fh v0.0.15
+	github.com/oarkflow/fh v0.0.17
+	github.com/oarkflow/securetoken v0.0.1
 	github.com/oarkflow/sse v0.0.1
 	github.com/oarkflow/tcpguard v0.0.16
 	github.com/oarkflow/zlog v0.0.2
